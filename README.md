@@ -1,5 +1,5 @@
 # Hi there my name is Jamiu Aderibigbe
-#### **I am a Data Analyst**
+#### **I am a Data/Bussiness Analyst**
 
 
 - 🔭 I’m currently working on ...
