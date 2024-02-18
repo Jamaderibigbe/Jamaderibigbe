@@ -1,8 +1,8 @@
-## Hi there my name is Jamiu Aderibigbe
+### Hello, I'm Jamiu Aderibigbe
 #### **I am a Data Analyst**
 
-- 🌱 I’m currently learning Data Analytics tools such as Microsoft excel, Microsoft PowerBI, SQL,  etc.
-- 👯 I’m looking to collaborate on with other Data Analyst/Scientist community leaders to design and organize awesome events for members.
-- 🤔 I’m looking for help with getting Data Analyst Internship or entry level Data related Job.
-- 📫 2024 Goals: improve my technical skill and start Data Analytic related job hunting
-- ⚡ Fun fact: I love watching football and taking self development courses
+- 🌱 I am a recent graduate of Data Analytics with ALX, where I honed my skills in Data Analytics tools such as spreadsheets, Microsoft Power BI, and SQL ect.
+- 👯 I am eager to collaborate with other Data Analysts/Scientists and community leaders to conceptualize and orchestrate impactful events for our members.
+- 🤔 I am actively seeking support in obtaining a Data Analyst internship or entry-level position within the field.
+- 📫 2024 Goals: Elevate my technical proficiency and initiate a focused job search in the domain of Data Analytics.
+- ⚡ Fun fact: I have a passion for continuous learning and engaging in self-development courses.
