@@ -1,11 +1,51 @@
-### Hello, I'm Jamiu Aderibigbe
-#### **I am a Data Analyst**
+# 👋 Hello, I'm Jamiu Aderibigbe  
+### 📊 Data Analyst | SQL • Excel • Power BI • Python (Learning)
 
-- 🌱 I am a data analyst with expertise in SQL, spreadsheets, and data visualization tools, dedicated to transforming raw data into meaningful insights that drive business decisions. With a problem-solving mindset,      I optimize processes, uncover trends, and turn complex datasets into actionable strategies.
-    Passionate about continuous learning, I am currently expanding my skill set by learning Python to enhance my proficiency in advanced data analysis, automation, and predictive modeling. Always eager to explore       new technologies and improve my analytical capabilities, I strive to create data-driven solutions that make an impact.
-- 👯 Striving for continuous self-improvement, I am currently studying Python in order to go one more step forward and enrich my skills in advanced Data Analysis as well as problem-solving.
-- 🤔 I am actively seeking support in obtaining a Data Analyst entry-level position within the field.
-- 📫 2025 Goals: My goal for 2025 is to deepen my expertise in data science, expanding beyond analysis into machine learning, advanced analytics, and predictive modeling. By building on my strong foundation in SQL,     spreadsheets, and data visualization, I aim to develop Python proficiency, enhance my problem-solving skills, and apply data-driven insights to complex challenges.
+---
 
-    Excited for the journey ahead! 🚀📊
-- ⚡ Fun fact: I am passionate about continuous learning and actively pursue self-development courses to expand my skills and knowledge.
+🔍 I'm a passionate and detail-driven **aspiring Data Analyst**, currently seeking an **entry-level opportunity** to apply and grow my skills in real-world business environments. I have hands-on experience using:
+
+- **SQL** for querying and manipulating datasets  
+- **Microsoft Excel & Google Sheets** for data cleaning and reporting  
+- **Power BI** for creating interactive dashboards and visual insights
+- **Python** (currently learning) for data analysis, automation, and exploring predictive modeling
+
+
+I’m actively building projects that demonstrate my ability to uncover trends, solve problems, and communicate findings through data.
+
+---
+
+### 🚀 What I’m Working On
+- Learning **Python** for advanced data analysis and automation  
+- Building end-to-end analytics projects using real-world datasets  
+- Strengthening my portfolio to reflect job-ready analytical skills  
+
+---
+
+### 🎯 Career Goal
+I’m looking for a chance to **break into the data industry** with an entry-level role that allows me to grow, contribute, and make a data-driven impact.
+
+My goal for **2025** is to:
+- Master core data science tools (Python, SQL, visualization tools)
+- Understand and apply basic machine learning and predictive analytics
+- Collaborate on real-world data problems and generate value
+
+---
+
+### 🤝 Let’s Connect!
+I’m currently open to:
+- 📌 **Entry-level Data Analyst roles**
+- 📁 Collaborations on data projects
+- 🤝 Networking with fellow data professionals
+
+📫 **Email:** Jamiu.aderibigbe@yahoo.com
+🌐 **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/jamiu-aderibigbe-a01545218/)]
+
+---
+
+### ⚡ Fun Fact
+I’m deeply committed to **continuous learning** — always exploring ways to improve my analytical thinking, technical proficiency, and storytelling through data.
+
+---
+
+> *"I don’t just work with data — I use it to solve problems and tell stories that lead to better decisions."*
