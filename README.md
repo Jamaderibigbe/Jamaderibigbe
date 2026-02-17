@@ -1,34 +1,41 @@
-# 👋 Hello, I'm Jamiu Aderibigbe  
-### 📊 Data Analyst | SQL • Excel • Power BI • Python (Learning)
+# 👋 Hi, I'm **Jamiu Aderibigbe**  
+### 📊 **Data Analyst | Aspiring Data Engineer**  
+**SQL • Python • Power BI • Excel | ETL • Data Pipelines • Cloud (Learning)**  
 
 ---
 
-🔍 I'm a passionate and detail-driven **aspiring Data Analyst**, currently seeking an **entry-level opportunity** to apply and grow my skills in real-world business environments. I have hands-on experience using:
+## **About Me**  
+I am a results-driven data professional with over two years of experience in the **payments and fintech industry**, leveraging data to drive business decisions. Skilled in **SQL, Python, Power BI, and Excel**, I specialize in transforming raw data into actionable insights and building solutions that improve efficiency.  
 
-- **SQL** for querying and manipulating datasets  
-- **Microsoft Excel & Google Sheets** for data cleaning and reporting  
-- **Power BI** for creating interactive dashboards and visual insights
-- **Python** (currently learning) for data analysis, automation, and exploring predictive modeling
+Currently, I’m expanding my expertise in **data engineering**, focusing on:  
+- **ETL Processes** and **Data Pipelines**  
+- **Cloud Infrastructure** (Azure)  
+- **Workflow Orchestration** (Apache Airflow, dbt)  
 
-
-I’m actively building projects that demonstrate my ability to uncover trends, solve problems, and communicate findings through data.
-
----
-
-### 🚀 What I’m Working On
-- Learning **Python** for advanced data analysis and automation  
-- Building end-to-end analytics projects using real-world datasets  
-- Strengthening my portfolio to reflect job-ready analytical skills  
+I’m passionate about **continuous learning**, **data-driven problem-solving**, and creating scalable systems that bridge analytics and engineering.  
 
 ---
 
-### 🎯 Career Goal
-I’m looking for a chance to **break into the data industry** with an entry-level role that allows me to grow, contribute, and make a data-driven impact.
+## **Core Skills**
+- **SQL** – Querying, data manipulation, and reporting  
+- **Python** – Data analysis, automation, and exploratory modeling  
+- **Power BI** – Interactive dashboards and visual insights  
+- **Excel & Google Sheets** – Data cleaning and advanced reporting  
 
-My goal for **2025** is to:
-- Master core data science tools (Python, SQL, visualization tools)
-- Understand and apply basic machine learning and predictive analytics
-- Collaborate on real-world data problems and generate value
+---
+
+## **🚀 What I’m Working On**
+- Building **end-to-end analytics projects** using real-world datasets  
+- Learning **data engineering tools** (ETL, Airflow, dbt, Azure)  
+- Strengthening my portfolio with **job-ready projects**  
+
+---
+
+## **🎯 Career Goal**
+To transition into **data engineering** while leveraging my strong foundation in analytics. My 2026 goals include:  
+- Mastering **data engineering concepts** and **cloud platforms**  
+- Applying **ETL and pipeline design** in real-world projects  
+- Contributing to **data-driven solutions** that enable business growth  
 
 ---
 
@@ -39,7 +46,7 @@ I’m currently open to:
 - 🤝 Networking with fellow data professionals
 
 📫 **Email:** Jamiu.aderibigbe@yahoo.com
-🌐 **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/jamiu-aderibigbe-a01545218/)]
+🌐 **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/jamiu-aderibigbe/)]
 
 ---
 
