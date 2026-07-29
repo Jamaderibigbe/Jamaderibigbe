@@ -117,14 +117,6 @@ I am about to start building real projects, ranging from data analysis to data e
 * [ ] Set up CI/CD for a data pipeline project
 * [ ] Land a Data Engineer or Analytics Engineer role
 
-### 🎓 Certifications & Courses
-
-<sub>Placeholders, update as each is completed.</sub>
-
-* 🏅 [Certification Name], Issuing Platform, Year
-* 🏅 [SQL Advanced Certification], Issuing Platform, Year
-* 🏅 [Data Engineering Specialization], Issuing Platform, Year
-* 🏅 [Cloud Platform Certification: AWS, Azure, or GCP], Issuing Platform, Year
 
 ### 🎯 2026 Professional Goals
 
